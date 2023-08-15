@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 .list {
     display: flex;
     justify-content: space-between;
-    padding: 0px 72px 0px 35px
+    margin: 0px 72px 0px 35px;
 }
 
 .master-class {
@@ -320,11 +320,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 
+.ad {
+    padding-top: 122px;
+    padding-bottom: 123px;
+}
+
 .know {
     display: flex;
     justify-content: space-between;
     margin-bottom: 65px;
-    margin-top: 121px;
 }
 
 .income {
@@ -349,7 +353,6 @@ h1, h2, h3, h4, h5, h6 {
 .desire {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 123px;
 }
 
 .little {
@@ -456,17 +459,20 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ------Fourth section------ */
 
+.if-you {
+    padding-top: 86px;
+    padding-bottom: 100px;
+}
+
 .if-you__title {
     font-size: 28px;
     font-weight: 900;
     margin-bottom: 66px;
-    margin-top: 86px;
 }
 
 .cards {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 100px;
 }
 
 .cards__icon {
@@ -564,11 +570,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* -------Footer------- */
 
+.footer {
+    padding-top: 22px;
+    padding-bottom: 24px;
+}
+
 .confidentiality {
     display: flex;
     justify-content: space-between;
-    margin-top: 22px;
-    margin-bottom: 24px;
 }
 
 .footer p {
